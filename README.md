@@ -1,6 +1,6 @@
-# Webpack Template
+# Media Queries
 
-A template for practice or simple projects
+A project to practice Responsive Web Design using media queries
 
 ## About the Project
 
@@ -16,40 +16,50 @@ A template for practice or simple projects
 
 ### Objective
 
-The goal of the project is to learn xyz by building abc.
+The goal of the project is to learn media queries and RWD by building a simple
+webpage that will resize smoothly across different-sized screens. The aim is
+to have five different groups of sizes (extra small, small, medium, large, and
+extra large). The general cut-off points are 600px, 768px, 992px, and 1200px.
+
+Initially, the project will have two sizes (mobile and computer), and depending
+on the process and external pressures, it might reach the five-size objective
+stated above.
 
 ###### Project Statement
 
-<a href='http://theodinproject.com/'>The Odin Project</a> (Month Year)
+There is no project statement.
 
 ### Features
 
-- Add something
-- Edit something
-- Remove something
-- Allow users to complicate dev's job
+- The web page will resize and look nice on five different sizes. The layout
+  will be clean and easy to read.
 
 ## Built With
 
 <img src='./README/html5-logo.svg' style='width:40px; height: 40px' >
 <img src='./README/css3-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/javascript-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/webpack-logo.svg' style='width:40px; height: 40px' >
 
 ## To-Do
 
-- [x] Understand the objectives
-- [ ] Plan
-  - [ ] Logic
-  - [ ] UI
-- [ ] Fix bugs
-  - [ ] Wrong date
-  - [ ] Layout on resize
+- [X] Write the README file (not perfunctorily)
+- [ ] Read W3schools RWD tutorial (https://www.w3schools.com/css/css_rwd_intro.asp)
+- [ ] Recall the content
+- [ ] Check understanding and recollection
+- [ ] Build a 'Holy Grail' web page for mobile
+  - [ ] HTML
+  - [ ] CSS
+- [ ] Add media queries to adjust for large screens
+- [ ] Evaluate and decide whether to continue
+  - [ ] XS
+  - [ ] M
+  - [ ] XL
 
 ## Lessons & Difficulties
 
-Some lessons learned along the way
+Generally, there are five groups of screen sizes (XS, S, M, L, XL).
 
 ## Diary
 
-Some thoughts regarding the project
+I struggle with resizing my web pages. They end up looking pretty bad on mobile
+because I design them for computers first and then fail to find the right CSS
+to fit both sizes.
