@@ -42,9 +42,9 @@ There is no project statement.
 ## To-Do
 
 - [X] Write the README file (not perfunctorily)
-- [ ] Read W3schools RWD tutorial (https://www.w3schools.com/css/css_rwd_intro.asp)
-- [ ] Recall the content
-- [ ] Check understanding and recollection
+- [X] Read W3schools RWD tutorial (https://www.w3schools.com/css/css_rwd_intro.asp)
+- [X] Recall the content
+- [X] Check understanding and recollection
 - [ ] Build a 'Holy Grail' web page for mobile
   - [ ] HTML
   - [ ] CSS
